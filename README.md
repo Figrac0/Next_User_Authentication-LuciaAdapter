@@ -1,31 +1,32 @@
 # Next.js User Authentication with Lucia
 
+## 🚀 Overview
+
+A modern, secure authentication system built with Next.js 14 App Router and Lucia Auth. This project demonstrates professional-grade user authentication with session management, password hashing, and protected routes.
+
 ## 📸 Project Preview
 
 <p align="center">
   <img src="https://github.com/Figrac0/Next_User_Authentication-LuciaAdapter/blob/main/public/main.gif" alt="Project Demo GIF - Full Authentication Flow" width="800"/><br/>
-  <em>Full authentication flow: Registration → Login → Dashboard Access</em>
+  
 </p>
 
 ---
 
 <p align="center">
   <img src="https://github.com/Figrac0/Next_User_Authentication-LuciaAdapter/blob/main/public/1.png" alt="Login Page - Secure Authentication Interface" width="400"/><br/>
-  <em>Modern login interface with real-time validation</em>
+  
 </p>
 
 ---
 
 <p align="center">
   <img src="https://github.com/Figrac0/Next_User_Authentication-LuciaAdapter/blob/main/public/2.png" alt="Training Dashboard - Premium Fitness Platform" width="400"/><br/>
-  <em>Premium training dashboard accessible only to authenticated users</em>
+  
 </p>
 
 ---
 
-## 🚀 Overview
-
-A modern, secure authentication system built with Next.js 14 App Router and Lucia Auth. This project demonstrates professional-grade user authentication with session management, password hashing, and protected routes.
 
 ## 🛠️ Tech Stack
 
